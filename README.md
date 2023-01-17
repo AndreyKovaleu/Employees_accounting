@@ -53,4 +53,8 @@ __Привет меня зовут Андрей. Я начинающий Fronten
  - Adobe PhotoShop
  - VS Code
 
- __Мои контакты:__ [e-mail](Andreykovaleu@gmail.com), [Linkedin](https://www.linkedin.com/in/andrey-kovaleu). Давайте работать вместе:)
+ __Мои контакты:__ 
+ - e-mail: Andreykovaleu@gmail.com
+ - LinkedIn: [Andrey Kovaleu](https://www.linkedin.com/in/andrey-kovaleu)
+ 
+ __Давайте работать вместе:)__
